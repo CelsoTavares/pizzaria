@@ -34,6 +34,7 @@ export const Nav = styled.nav`
 
   div {
     display: none;
+    z-index: 7;
   }
   @media (max-width: 510px) {
     justify-content: flex-start;
@@ -71,6 +72,7 @@ export const Nav = styled.nav`
 
 export const Ul = styled.ul`
   display: flex;
+  z-index: 8;
 
   a {
     color: #fff;
