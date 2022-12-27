@@ -6,13 +6,17 @@ export const Container = styled.section`
   background-size: left;
   height: calc(100vh - 80px);
   display: flex;
+  position: relative;
+  @media (max-width: 750px) {
+    background-size: cover;
+  }
 `;
 
 export const Title = styled.div`
   background-color: rgba(255, 255, 255, 0.5);
   max-width: 500px;
   height: 200px;
-  margin: 100px 50px;
+  margin: 200px 50px;
   padding: 10px;
   border-radius: 25px 25px 25px 0;
   h1 {

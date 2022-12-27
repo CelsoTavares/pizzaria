@@ -72,4 +72,11 @@ export const Container = styled.section`
     box-shadow: 0 0 10px #121212;
     color: #cc2900;
   }
+  @media (max-width: 600px) {
+    flex-direction: column;
+    img {
+      width: 100%;
+      height: 90%;
+    }
+  }
 `;
