@@ -20,6 +20,7 @@ export const Nav = styled.nav`
     width: 20px;
     height: 20px;
     z-index: 9;
+    cursor: pointer;
   }
   .hamburger::after,
   .hamburger::before {
