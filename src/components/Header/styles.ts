@@ -20,6 +20,7 @@ export const Nav = styled.nav`
     width: 20px;
     height: 20px;
     z-index: 9;
+    cursor: pointer;
   }
   .hamburger::after,
   .hamburger::before {
@@ -34,6 +35,7 @@ export const Nav = styled.nav`
 
   div {
     display: none;
+    z-index: 7;
   }
   @media (max-width: 510px) {
     justify-content: flex-start;
@@ -71,6 +73,7 @@ export const Nav = styled.nav`
 
 export const Ul = styled.ul`
   display: flex;
+  z-index: 8;
 
   a {
     color: #fff;
@@ -79,9 +82,6 @@ export const Ul = styled.ul`
     transition: all 0.5s;
     margin-left: 10px;
     border-radius: 5px;
-  }
-  a:focus {
-    border-bottom: 1px solid #fff;
   }
   a:hover {
     border-bottom: 1px solid #fff;

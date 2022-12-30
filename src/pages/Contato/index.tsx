@@ -10,9 +10,9 @@ const Contato = () => {
 
   return (
     <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0, transition: { duration: 0.4 } }}
+      initial={{ x: -1200 }}
+      animate={{ x: 0 }}
+      exit={{ x: 1200, transition: { duration: 0.2 } }}
     >
       <C.Container>
         <img src={latImage} alt="side image" />
