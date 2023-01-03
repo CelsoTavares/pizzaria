@@ -38,6 +38,7 @@ Users should be able to:
 - React-router-dom
 - React-icons
 - Framer-motion
+- Vite
 - React
 - TypeScript
 
