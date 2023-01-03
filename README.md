@@ -1,6 +1,6 @@
 # Pizzeria
 
-Website template for pizzeria.
+Pizzeria website template, using react-router-dom and transitions between pages with framer-motion.
 
 ## Table of contents
 
