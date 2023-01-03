@@ -37,6 +37,7 @@ Users should be able to:
 - Styled-components
 - React-router-dom
 - React-icons
+- Framer-motion
 - React
 - TypeScript
 
