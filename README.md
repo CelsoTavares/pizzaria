@@ -22,8 +22,14 @@ Users should be able to:
 - Navigate between pages through the menu
 
 ### Screenshot
-
+- Desktop
+ 
 ![pizzariaFoto](https://user-images.githubusercontent.com/109553661/210371122-8fb4519f-01c5-41bd-9dca-52c986402354.PNG)
+
+- Mobile
+
+![pizzariaFotoMobile](https://user-images.githubusercontent.com/109553661/210378858-6f69a0ea-e8e3-45c0-8f14-19a981e3bf01.PNG)
+
 
 ### Links
 
