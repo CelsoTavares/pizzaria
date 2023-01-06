@@ -20,6 +20,9 @@ Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - Navigate between pages through the menu
+- See a transition when changing pages
+- See the carousel pass automatically
+- Change carousel images using arrows
 
 ### Screenshot
 - Desktop
